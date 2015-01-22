@@ -1,5 +1,7 @@
 # InchJS
 
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/rrrene/inchjs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 `inchjs` gives you hints where to improve your docs. One Inch at a time.
 
 It is a wrapper for [Inch](http://trivelop.de/inch) for JavaScript. Take a look at the [original Inch page with screenshots (live and in full color)](http://rrrene.github.io/inch/).
